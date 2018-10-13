@@ -1,0 +1,68 @@
+ \documentclass[a4paper,10pt]{book}
+\usepackage{polyglossia} 
+\setdefaultlanguage{english}
+\setotherlanguage{russian}
+\defaultfontfeatures{Ligatures=TeX,Mapping=tex-text}
+
+%\setmainfont{AcademyPSCyr}
+%\setmainfont{Old Standard}
+\setmainfont{Linux Libertine}
+%\setmainfont{Cormorant}
+%\setmainfont{Verdana}
+
+\usepackage{xltxtra}
+\usepackage{microtype}
+
+\usepackage{xcolor}
+\definecolor{darkblue}{HTML}{003153}
+\newcommand{\mulang}[3]{\textcolor{darkblue}{#3}}% 1 -- tag, 2 -- ru, 3 -- en
+ 
+
+\usepackage{graphicx}
+\usepackage {textcomp}
+\usepackage[twoside,left=2.5cm,right=3cm,top=3cm,bottom=4cm,bindingoffset=0cm]{
+geometry}
+\usepackage{epigraph}
+
+\epigraphwidth=8cm
+\usepackage{soul, xspace}
+\xspaceaddexceptions{ < ) }
+\sodef\so{}{.1em}{1em}{.3em plus.05em minus.05em}
+\newcommand{\ldotst}{\so{...}\xspace}
+\newcommand{\ldotsq}{\so{?\hbox{\hspace{-.212em}}..}\xspace}
+\newcommand{\ldotse}{\so{!..}\xspace}
+\newcommand{\razd}{~\\{\centering\Large\bfseries$\ast \ast \ast$\par}~\\}
+\newcommand{\spacing}{\textcolor{red}{\textbf{(разрыв)}}}
+\newcommand{\authornote}{\textit{(прим. авт.)}}
+
+\usepackage{hyperref}
+\hypersetup{
+colorlinks=true,
+linkcolor=darkblue,          % color of internal links (change box color with 
+citecolor=darkblue,        % color of links to bibliography
+filecolor=darkblue,      % color of file links
+urlcolor=darkblue     
+}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[LO]{{\footnotesize \mulang{}{ДАЛЕКИЕ РЕЧИ}{TALKS OF FARAWAY}}}
+\fancyhead[RE]{{\footnotesize \mulang{}{ЭМИЛЬ ХЕЛЬГАСОН}{EMIL HELGASON}}} 
+\fancyfoot{}
+\fancypagestyle{plain}
+{
+\fancyhead{}
+\renewcommand{\headrulewidth}{0mm}
+\fancyfoot{}
+}
+\fancypagestyle{requisit}
+{
+\fancyhead{}
+\renewcommand{\headrulewidth}{0mm}
+}
+
+\begin{document}
+\input{full_text.tex}
+
+\end{document}
