@@ -28,6 +28,15 @@
 \newcommand{\spacing}{\textcolor{red}{\textbf{(space)}}}
 \newcommand{\authornote}{\textit{--- Author.}}
 
+\usepackage{etoolbox}
+\AtBeginEnvironment{quote}{\itshape}
+\makeatletter
+\newlength\epitextskip
+\pretocmd{\@epitext}{\em}{}{}
+\apptocmd{\@epitext}{\em}{}{}
+\patchcmd{\epigraph}{\@epitext{#1}\\}{\@epitext{#1}\\[\epitextskip]}{}{}
+\makeatother
+
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{amsfonts}

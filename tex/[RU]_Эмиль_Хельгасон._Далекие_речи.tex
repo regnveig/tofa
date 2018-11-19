@@ -28,7 +28,16 @@
 \newcommand{\ldotse}{\so{!..}\xspace}
 \newcommand{\razd}{~\\{\centering\Large\bfseries$\ast \ast \ast$\par}~\\}
 \newcommand{\spacing}{\textcolor{red}{\textbf{(разрыв)}}}
-\newcommand{\authornote}{\textit{"--- Прим. авт.}}
+\newcommand{\authornote}{\emph{"--- Прим. авт.}}
+
+\usepackage{etoolbox}
+\AtBeginEnvironment{quote}{\itshape}
+\makeatletter
+\newlength\episourceskip
+\pretocmd{\@episource}{\em}{}{}
+\apptocmd{\@episource}{\em}{}{}
+\patchcmd{\epigraph}{\@episource{#1}\\}{\@episource{#1}\\[\episourceskip]}{}{}
+\makeatother
 
 \usepackage{amsmath}
 \usepackage{amssymb}
