@@ -4,16 +4,12 @@
 \setotherlanguage{english}
 \defaultfontfeatures{Ligatures=TeX,Mapping=tex-text}
 
-%\setmainfont{AcademyPSCyr}
-%\setmainfont{Old Standard}
 \setmainfont{Linux Libertine}
-%\setmainfont{Cormorant}
-%\setmainfont{Verdana}
 
 \usepackage{xltxtra}
 \usepackage{microtype}
 
-\newcommand{\mulang}[3]{#2}% 1 -- tag, 2 -- ru, 3 -- en
+\newcommand{\mulang}[3]{#2}
  
 \usepackage{xcolor}
 \definecolor{darkblue}{HTML}{003153}
@@ -39,19 +35,21 @@
 \usepackage{amsfonts}
 
 \usepackage{hyperref}
-\hypersetup{
-colorlinks=true,
-linkcolor=darkblue,          % color of internal links (change box color with 
-citecolor=darkblue,        % color of links to bibliography
-filecolor=darkblue,      % color of file links
-urlcolor=darkblue     
-}
+\hypersetup{colorlinks=true, linkcolor=darkblue, citecolor=darkblue, filecolor=darkblue, urlcolor=darkblue}
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhead[LE,RO]{\thepage}
-\fancyhead[LO]{{\footnotesize \mulang{}{ДАЛЕКИЕ РЕЧИ}{TALKS OF FARAWAY}}}
-\fancyhead[RE]{{\footnotesize \mulang{}{ЭМИЛЬ ХЕЛЬГАСОН}{EMIL HELGASON}}} 
+\fancyhead[LO]{{\footnotesize
+\mulang{$0$}
+{ДАЛЕКИЕ РЕЧИ}
+{TALKS OF FARAWAY}
+}}
+\fancyhead[RE]{{\footnotesize
+\mulang{$0$}
+{ЭМИЛЬ ХЕЛЬГАСОН}
+{EMIL HELGASON}
+}} 
 \fancyfoot{}
 \fancypagestyle{plain}
 {
@@ -67,5 +65,6 @@ urlcolor=darkblue
 
 \begin{document}
 \input{full_text.tex}
-
+\part{Временное хранилище}
+\input{tempcomp.tex}
 \end{document}

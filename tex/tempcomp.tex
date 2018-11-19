@@ -1,74 +1,10 @@
-\documentclass[a4paper,10pt,fleqn]{book}
-\usepackage{polyglossia}
-\setdefaultlanguage[babelshorthands=true]{russian}
-\setotherlanguage{english}
-\defaultfontfeatures{Ligatures=TeX,Mapping=tex-text}
-
-%\setmainfont{AcademyPSCyr}
-%\setmainfont{Old Standard}
-%\setmainfont{Verdana}
-\setmainfont{Linux Libertine}
-\newcommand{\mulang}[3]{#2}% 1 -- tag, 2 -- ru, 3 -- en
-
-\usepackage{xcolor}
-\definecolor{darkblue}{HTML}{003153}
-\usepackage{graphicx}
-\usepackage {textcomp}
-\usepackage[twoside,left=2.5cm,right=3cm,top=3cm,bottom=4cm,bindingoffset=0cm]{geometry}
-\usepackage{epigraph}
-\renewcommand{\epigraphsize}{\footnotesize}
-\epigraphrule=0pt
-\epigraphwidth=8cm
-\usepackage{soul, xspace}
-\xspaceaddexceptions{ < ) }
-\sodef\so{}{.1em}{1em}{.3em plus.05em minus.05em}
-\newcommand{\ldotst}{\so{...}\xspace}
-\newcommand{\ldotsq}{\so{?\hbox{\hspace{-.212em}}..}\xspace}
-\newcommand{\ldotse}{\so{!..}\xspace}
-\newcommand{\razd}{~\\{\centering\Large\bfseries$\ast \ast \ast$\par}~\\}
-\newcommand{\spacing}{\textcolor{red}{\textbf{(разрыв)}}}
-\newcommand{\authornote}{\textit{(прим. авт.)}}
-
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{amsfonts}
-
-\usepackage{hyperref}
-\hypersetup{
-colorlinks=true,
-linkcolor=darkblue, % color of internal links (change box color with
-citecolor=darkblue, % color of links to bibliography
-filecolor=darkblue, % color of file links
-urlcolor=darkblue
-}
-
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhead[LE,RO]{\thepage}
-\fancyhead[LO]{{\footnotesize ДАЛЕКИЕ РЕЧИ}}
-\fancyhead[RE]{{\footnotesize ЭМИЛЬ ХЕЛЬГАСОН}}
-\fancyfoot{}
-\fancypagestyle{plain}
-{
-\fancyhead{}
-\renewcommand{\headrulewidth}{0mm}
-\fancyfoot{}
-}
-\fancypagestyle{requisit}
-{
-\fancyhead{}
-\renewcommand{\headrulewidth}{0mm}
-}
-
-\begin{document}
-
-\tableofcontents
-
 \chapter{Эпиграфы}
 
-\epigraph{\mulang{}{Начинай, если хочешь.}
+\epigraph{\mulang{$0$}
+{Начинай, если хочешь.}
 {Begin if you want.}
-\mulang{}{Продолжай, если нравится.}
+\mulang{$0$}
+{Продолжай, если нравится.}
 {Continue if you like.}}
 {\textit{Пословица ноа}}
 
@@ -133,7 +69,8 @@ urlcolor=darkblue
 \epigraph{Жить интересно именно потому, что мир не соответствует нашим ожиданиям.}
 {\textit{Людвиг Вейерманн}}
 
-\epigraph{\mulang{}{Битва может стоить жизни, но без битвы ты не узнаешь, что такое жизнь.}
+\epigraph{\mulang{$0$}
+{Битва может стоить жизни, но без битвы ты не узнаешь, что такое жизнь.}
 {Battle may take your life, but escaping battle you'll never know what life is.}}
 {\textit{Присказка наёмников Фоуф}}
 
@@ -236,7 +173,8 @@ urlcolor=darkblue
 Но если бы пришлось, я стал бы диверсантом или дезертиром "--- и то и другое требует большой смелости.}
 {\textit{Бенедикт Альсауд}}
 
-\epigraph{\mulang{}{Уважение тебе ничего не стоит.}
+\epigraph{\mulang{$0$}
+{Уважение тебе ничего не стоит.}
 {Respect costs you nothing.}}
 {\textit{Мариам Кивихеулу}}
 
@@ -368,18 +306,21 @@ urlcolor=darkblue
 Именно тогда, в огне вооружённых конфликтов, революций, забастовок, военных переворотов и уродливых, саморазрушительных идеологий ковалась самая жизнеспособная, самая гуманная философия первых людей, обеспечившая почти двадцатидвухтысячелетний период мира, процветания и расселения Ветвей Земли по Вселенной.}
 {\textit{Кельса Пушистая}}
 
-\epigraph{\mulang{}{Счастливые женщины "--- хорошая деревня.}
+\epigraph{\mulang{$0$}
+{Счастливые женщины "--- хорошая деревня.}
 {Happy women mean a healthy village.}}
 {\textit{Хаяо Миядзаки}}
 
-\epigraph{\mulang{}{Есть высоты, на которых худший способ висеть лучше падения.}
+\epigraph{\mulang{$0$}
+{Есть высоты, на которых худший способ висеть лучше падения.}
 {There are some heights, where the worst way to hang on is better than to fall off.}}
 {\textit{Пословица хака}}
 
 \epigraph{Если из жилища видно не красоты природы, а лишь окружающие его стены "--- это осквернение самой идеи жилища.}
 {\textit{Клаудиу Дентосиу}}
 
-\epigraph{\mulang{}{Всегда будь готов к тому, что ничего не произойдёт.}
+\epigraph{\mulang{$0$}
+{Всегда будь готов к тому, что ничего не произойдёт.}
 {Always expect nothing to happen.}}
 {\textit{Длинный-Мокрый-Хвост}}
 
@@ -2481,9 +2422,11 @@ Novai.
 
 \section{Сдерживатель темперамента}
 
-\mulang{}{"--*Иногда мне кажется, что моё единственное предназначение "--- сдерживать темперамент Кхохо, "--- буркнул Ситрис.}
+\mulang{$0$}
+{"--*Иногда мне кажется, что моё единственное предназначение "--- сдерживать темперамент Кхохо, "--- буркнул Ситрис.}
 {``Sometimes it seems my only destiny is to restrain Kch\`{o}h\^{o}'s temperament,'' S\~{\i}tr\v{\i}s grumbled.}
-\mulang{}{"--- Если бы мы не встретились, Кхохо уничтожила бы мир к свиньям и устроила бы богам истерику, что мир так быстро сломался.}
+\mulang{$0$}
+{"--- Если бы мы не встретились, Кхохо уничтожила бы мир к свиньям и устроила бы богам истерику, что мир так быстро сломался.}
 {``If we hadn't met, Kch\`{o}h\^{o} would have destroyed the world and made an uproar to gods because it wasn't stable enough.''}
 
 \section{Любовь к языкам}
@@ -2965,7 +2908,8 @@ Novai.
 
 Я показал ему большой и указательный палец, затем направился к двери.
 
-\mulang{}{"--*Десять тысяч дождей, а мозгов нет, "--- резюмировал технолог мне вслед.}
+\mulang{$0$}
+{"--*Десять тысяч дождей, а мозгов нет, "--- резюмировал технолог мне вслед.}
 {``Ten thousand rains, has got no brains,'' the technologist summed up to my back.}
 "--- И когда только успел троих настрогать\ldotst
 
@@ -2998,9 +2942,11 @@ Novai.
 "--- Почеши мне спинку.
 
 "--*Выпивка и секс вон там, "--- воительница кивнула в сторону постоялого двора.
-\mulang{}{"--- Если хочешь меня, то придётся подождать.}
+\mulang{$0$}
+{"--- Если хочешь меня, то придётся подождать.}
 {``If you want me, you have to wait.}
-\mulang{}{В лучшем случае до конца моей смены, в худшем "--- до конца моей жизни.}
+\mulang{$0$}
+{В лучшем случае до конца моей смены, в худшем "--- до конца моей жизни.}
 {At best, 'til the end of my shift; at worst, 'til the end of my life.''}
 
 "--*Да какой секс, "--- буркнул технолог.
@@ -3174,13 +3120,20 @@ Novai.
 Из зала доносился богатый голос Ликхлама под тяжёлый бронзовый аккомпанемент цитры:
 
 \begin{verse}
-\mulang{}{Яркие краски,}{Brightness of colors,}\\
-\mulang{}{Тёплая кожа,}{Skin heated by arteries,}\\
-\mulang{}{Мерные мысли и новый момент.}{Race of new moments, and rhythmical minds. }\\
-\mulang{}{Вечное счастье,}{Edgeless happiness,}\\
-\mulang{}{Дни непохожие,}{Different afternoons,}\\
-\mulang{}{В солнечных линиях новый рассвет,}{Covered by sun rays renewed sunrise,}\\
-\mulang{}{Новый рассвет\ldotst}{Renewed sunrise\dots}
+\mulang{$0$}
+{Яркие краски,}{Brightness of colors,}\\
+\mulang{$0$}
+{Тёплая кожа,}{Skin heated by arteries,}\\
+\mulang{$0$}
+{Мерные мысли и новый момент.}{Race of new moments, and rhythmical minds. }\\
+\mulang{$0$}
+{Вечное счастье,}{Edgeless happiness,}\\
+\mulang{$0$}
+{Дни непохожие,}{Different afternoons,}\\
+\mulang{$0$}
+{В солнечных линиях новый рассвет,}{Covered by sun rays renewed sunrise,}\\
+\mulang{$0$}
+{Новый рассвет\ldotst}{Renewed sunrise\dots}
 
 Долгими кхене, тропами резвыми,\\
 Надо ли, надо ли\\
@@ -4718,40 +4671,51 @@ Luppina "--- <<самка шакала>> "--- название для\ldotst "--
 
 "--*Тогда мне здесь точно нечего будет делать.
 
-\mulang{}{"--*Я напишу о нас книгу.}
+\mulang{$0$}
+{"--*Я напишу о нас книгу.}
 {``I'll write a book about us.''}
 
 Она засмеялась и схватила меня за плечи:
 
-\mulang{}{"--*Книгу?}
+\mulang{$0$}
+{"--*Книгу?}
 {``A book?''}
 
-\mulang{}{"--*Да.}
+\mulang{$0$}
+{"--*Да.}
 {``Yes.}
-\mulang{}{И нас будут помнить даже после моей гибели.}
+\mulang{$0$}
+{И нас будут помнить даже после моей гибели.}
 {We'll be remembered even after my death.''}
 
-\mulang{}{"--*Кто?}
+\mulang{$0$}
+{"--*Кто?}
 {``But who will remember?''}
 
-\mulang{}{"--*Кто-то да будет.}
+\mulang{$0$}
+{"--*Кто-то да будет.}
 {``Somebody will.}
-\mulang{}{Написанное может быть прочитано.}
+\mulang{$0$}
+{Написанное может быть прочитано.}
 {Written might be read.}
-\mulang{}{Может быть, её будут читать миллиарды, жители сотни планет.}
+\mulang{$0$}
+{Может быть, её будут читать миллиарды, жители сотни планет.}
 {I guess billions of folk, dwellers of hundred planets will read this story.''}
 
-\mulang{}{"--*И мы будем встречаться снова и снова, проживать жизнь за жизнью в чьём-то воображении?}
+\mulang{$0$}
+{"--*И мы будем встречаться снова и снова, проживать жизнь за жизнью в чьём-то воображении?}
 {``And we will meet and meet again, we will live life by life in the mind's eye of somebody, won't we?''}
 
-\mulang{}{"--*Да.}
+\mulang{$0$}
+{"--*Да.}
 {``Yes, we will.''}
 
 Чханэ смотрела в закат, осмысливая мои слова.
 Таких счастливых глаз я не видел никогда.
 Помолчав, она кивнула и притянула мою руку к груди.
 
-\mulang{}{"--*Я согласна.}
+\mulang{$0$}
+{"--*Я согласна.}
 {``I accept it.''}
 
 \chapter{Воин и менестрель}
@@ -5355,22 +5319,27 @@ Luppina "--- <<самка шакала>> "--- название для\ldotst "--
 Светящиеся чистым светом расчёта глаза одним своим существованием высмеивали амбиции Штрой, и подошедший Ааман властно оттолкнул Штрой, напоминая молодой демонице о своём существовании и своей роли.
 
 <<Ааман молодец, "--- отметила Стигма.
-\mulang{}{"--- Едва ли он знает о смертельном сюрпризе в моём комбинезоне, но последствия физического контакта он просчитал совершенно правильно>>.}
+\mulang{$0$}
+{"--- Едва ли он знает о смертельном сюрпризе в моём комбинезоне, но последствия физического контакта он просчитал совершенно правильно>>.}
 {``He hardly know of the deadly surprise I've got in my suit, but he correctly predicted consequences of physical contact.''}
 
 Штрой, похоже, тоже поняла, какого рода опасность ей грозит.
 На её лице расцвела и застыла улыбка превосходства.
 
-\mulang{}{"--*Хорошая попытка, Стигма.}
+\mulang{$0$}
+{"--*Хорошая попытка, Стигма.}
 {``Nice try, Stijma.}
-\mulang{}{Как вижу, ты не любишь марать руки.}
+\mulang{$0$}
+{Как вижу, ты не любишь марать руки.}
 {You don't like to get your hands dirty, I guess.''}
 
 Стигма вместо ответа показала испачканные удобрениями ладошки.
 
-\mulang{}{"--*Очень смешно, "--- скривилась девушка.}
+\mulang{$0$}
+{"--*Очень смешно, "--- скривилась девушка.}
 {``Very funny,'' the girl made a face.}
-\mulang{}{"--- Разумеется, я сообщу куда следует о твоих методах ведения переговоров.}
+\mulang{$0$}
+{"--- Разумеется, я сообщу куда следует о твоих методах ведения переговоров.}
 {``Of course I'll report about your negotiation techniques.''}
 
 "--*Ты хочешь наказать меня за желание защититься?
@@ -5930,11 +5899,13 @@ Luppina "--- <<самка шакала>> "--- название для\ldotst "--
 
 Пауза явно затянулась.
 
-\mulang{}{"--*Понятия не имею, был ли ты хоть в чём-то и хоть для кого-то лучшим, "--- растерянно закончил технолог и повернулся, чтобы уйти.}
+\mulang{$0$}
+{"--*Понятия не имею, был ли ты хоть в чём-то и хоть для кого-то лучшим, "--- растерянно закончил технолог и повернулся, чтобы уйти.}
 {``I've no idea if you were good at something or for somebody,'' confused Griswold finished, then turned around to leave.}
 Его встретил ошалелый взгляд Люцифера.
 
-\mulang{}{"--*Зато честно, "--- признал парень.}
+\mulang{$0$}
+{"--*Зато честно, "--- признал парень.}
 {``You're honest, anyway,'' Lu declared.}
 Разумеется, его демоническая сущность уже произвела подробный анализ и без того несложной ситуации.
 "--- За что ты его так, Грис?
@@ -8049,4 +8020,3 @@ Cуществует-Хорошее-Небо \hfill Existing-Good-Sky\\
 Эйраки Мороз \hfill Ejraci the Cold\\
 Эрликх \hfill O\r{e}rl\'{\i}kch\\
 Эрхэ \hfill O\r{e}rcho\^{e}\\
-\end{document}

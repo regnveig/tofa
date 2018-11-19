@@ -4,26 +4,19 @@
 \setotherlanguage{russian}
 \defaultfontfeatures{Ligatures=TeX,Mapping=tex-text}
 
-%\setmainfont{AcademyPSCyr}
-%\setmainfont{Old Standard}
 \setmainfont{Linux Libertine}
-%\setmainfont{Cormorant}
-%\setmainfont{Verdana}
 
 \usepackage{xltxtra}
 \usepackage{microtype}
 
 \usepackage{xcolor}
 \definecolor{darkblue}{HTML}{003153}
-\newcommand{\mulang}[3]{\textcolor{darkblue}{#3}}% 1 -- tag, 2 -- ru, 3 -- en
- 
+\newcommand{\mulang}[3]{\textcolor{darkblue}{#3}}
 
 \usepackage{graphicx}
 \usepackage {textcomp}
-\usepackage[twoside,left=2.5cm,right=3cm,top=3cm,bottom=4cm,bindingoffset=0cm]{
-geometry}
+\usepackage[twoside,left=2.5cm,right=3cm,top=3cm,bottom=4cm,bindingoffset=0cm]{geometry}
 \usepackage{epigraph}
-
 \epigraphwidth=8cm
 \usepackage{soul, xspace}
 \xspaceaddexceptions{ < ) }
@@ -32,27 +25,29 @@ geometry}
 \newcommand{\ldotsq}{\so{?\hbox{\hspace{-.212em}}..}\xspace}
 \newcommand{\ldotse}{\so{!..}\xspace}
 \newcommand{\razd}{~\\{\centering\Large\bfseries$\ast \ast \ast$\par}~\\}
-\newcommand{\spacing}{\textcolor{red}{\textbf{(разрыв)}}}
-\newcommand{\authornote}{\textit{(прим. авт.)}}
+\newcommand{\spacing}{\textcolor{red}{\textbf{(space)}}}
+\newcommand{\authornote}{\textit{--- Author.}}
 
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{amsfonts}
 
 \usepackage{hyperref}
-\hypersetup{
-colorlinks=true,
-linkcolor=darkblue,          % color of internal links (change box color with 
-citecolor=darkblue,        % color of links to bibliography
-filecolor=darkblue,      % color of file links
-urlcolor=darkblue     
-}
+\hypersetup{colorlinks=true, linkcolor=darkblue, citecolor=darkblue, filecolor=darkblue, urlcolor=darkblue}
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhead[LE,RO]{\thepage}
-\fancyhead[LO]{{\footnotesize \mulang{}{ДАЛЕКИЕ РЕЧИ}{TALKS OF FARAWAY}}}
-\fancyhead[RE]{{\footnotesize \mulang{}{ЭМИЛЬ ХЕЛЬГАСОН}{EMIL HELGASON}}} 
+\fancyhead[LO]{{\footnotesize
+\mulang{$0$}
+{ДАЛЕКИЕ РЕЧИ}
+{TALKS OF FARAWAY}
+}}
+\fancyhead[RE]{{\footnotesize
+\mulang{$0$}
+{ЭМИЛЬ ХЕЛЬГАСОН}
+{EMIL HELGASON}
+}}
 \fancyfoot{}
 \fancypagestyle{plain}
 {
@@ -68,5 +63,6 @@ urlcolor=darkblue
 
 \begin{document}
 \input{full_text.tex}
-
+\part{Temporary storage}
+\input{tempcomp.tex}
 \end{document}
