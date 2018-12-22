@@ -11,7 +11,10 @@
 
 \usepackage{xcolor}
 \definecolor{darkblue}{HTML}{003153}
-\newcommand{\mulang}[3]{\textcolor{darkblue}{#3}}
+\definecolor{lightgray}{HTML}{bbbbbb}
+\newcommand{\mulang}[3]{\textcolor{black}{#3}}
+
+\color{lightgray}
 
 \usepackage{graphicx}
 \usepackage {textcomp}
@@ -20,7 +23,6 @@
 \epigraphwidth=8cm
 \usepackage{soul, xspace}
 \xspaceaddexceptions{ < ) }
-\sodef\so{}{.1em}{1em}{.3em plus.05em minus.05em}
 \newcommand{\ldotst}{\so{...}\xspace}
 \newcommand{\ldotsq}{\so{?\hbox{\hspace{-.212em}}..}\xspace}
 \newcommand{\ldotse}{\so{!..}\xspace}
