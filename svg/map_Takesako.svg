@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5307061"
-     inkscape:cx="648.04283"
-     inkscape:cy="444.25085"
+     inkscape:zoom="1.0800698"
+     inkscape:cx="324.8106"
+     inkscape:cy="450.97139"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -130,20 +130,20 @@
     <circle
        style="fill:#ffff00;fill-rule:evenodd;stroke:#000000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1045-3"
-       cx="344.47031"
-       cy="708.77515"
+       cx="316.69434"
+       cy="712.24713"
        r="4.416286" />
     <circle
        style="fill:#ffff00;fill-rule:evenodd;stroke:#000000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1045-6"
-       cx="253.49483"
-       cy="843.91351"
+       cx="252.62683"
+       cy="877.7655"
        r="4.416286" />
     <circle
        style="fill:#ffff00;fill-rule:evenodd;stroke:#000000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1045-7"
-       cx="335.03345"
-       cy="793.79736"
+       cx="337.63745"
+       cy="749.52942"
        r="4.416286" />
     <circle
        style="fill:#ffff00;fill-rule:evenodd;stroke:#000000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
