@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.27001746"
-     inkscape:cx="882.97368"
-     inkscape:cy="-80.593507"
+     inkscape:zoom="3.1632415"
+     inkscape:cx="473.38144"
+     inkscape:cy="633.59162"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -452,7 +452,7 @@
          id="tspan4183-83"
          x="603.73547"
          y="620.30939"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr">Тхартавирт</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr">Тхартхаахитр</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1177,5 +1177,49 @@
        cx="782.51575"
        cy="745.82294"
        r="2.6785715" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="444.94223"
+       y="653.99335"
+       id="text4333-4-9-3"><tspan
+         sodipodi:role="line"
+         x="444.94223"
+         y="653.99335"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#4d4d4d;stroke-width:1px"
+         id="tspan4411-9-6">Хребет Дикобраза</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="463.11423"
+       y="507.95212"
+       id="text4333-7"><tspan
+         sodipodi:role="line"
+         x="463.11423"
+         y="507.95212"
+         id="tspan4337-3"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#008000;stroke-width:1px">Водораздел</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.5535512px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003380;fill-opacity:1;stroke:none;stroke-width:0.6294626px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="502.03857"
+       y="474.43976"
+       id="text4333-2-8-6-5"><tspan
+         sodipodi:role="line"
+         x="502.03857"
+         y="474.43976"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.14731288px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#003380;stroke-width:0.6294626px"
+         id="tspan1062">оз. Сотронское</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.87686348px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003380;fill-opacity:1;stroke:none;stroke-width:0.73973858px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="390.46765"
+       y="433.80505"
+       id="text4333-2-8-6-5-2"><tspan
+         sodipodi:role="line"
+         x="390.46765"
+         y="433.80505"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69869304px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#003380;stroke-width:0.73973858px"
+         id="tspan1062-1">оз. Кха'ма</tspan></text>
   </g>
 </svg>
