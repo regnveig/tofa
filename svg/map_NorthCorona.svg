@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.5508532"
-     inkscape:cx="783.42884"
-     inkscape:cy="567.59553"
+     inkscape:zoom="0.59955415"
+     inkscape:cx="556.36766"
+     inkscape:cy="543.34575"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -415,7 +415,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;">Травинхал</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1;"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="632.97296"
        y="454.17667"
        id="text4181-3"><tspan
@@ -423,7 +423,7 @@
          id="tspan4183-4"
          x="632.97296"
          y="454.17667"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;">Ихслантекхо</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr">Ихслантхар</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1;"
@@ -602,15 +602,20 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;">Прибой</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1;"
-       x="700.69977"
-       y="894.4165"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="693.2724"
+       y="889.33459"
        id="text4181-816"><tspan
          sodipodi:role="line"
          id="tspan4183-85"
-         x="700.69977"
-         y="894.4165"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;">Яуляль</tspan></text>
+         x="693.2724"
+         y="889.33459"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr">Яуляль</tspan><tspan
+         sodipodi:role="line"
+         x="693.2724"
+         y="895.58459"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr"
+         id="tspan1124">(Аурелия)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1;"
@@ -699,14 +704,14 @@
          id="tspan4448">Предгорье</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1;"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="425.13184"
        y="944.09363"
        id="text4333-4-3"><tspan
          sodipodi:role="line"
          x="425.13184"
          y="944.09363"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#6c5353;"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#6c5353;stroke:none;"
          id="tspan4411-3">Смертные пустоши Короны</tspan></text>
     <text
        xml:space="preserve"
@@ -1311,5 +1316,175 @@
          y="508.80902"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78563714px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#003380;stroke-width:0.35712743px"
          id="tspan1062-6">Инхас-Лака</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="618.93378"
+       y="761.09021"
+       id="text4181-816-3"><tspan
+         sodipodi:role="line"
+         id="tspan4183-85-6"
+         x="618.93378"
+         y="761.09021"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;text-align:center;text-anchor:middle;stroke-width:1px">Гавань Вечного</tspan><tspan
+         sodipodi:role="line"
+         x="618.93378"
+         y="767.34021"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;text-align:center;text-anchor:middle;stroke-width:1px"
+         id="tspan1163">Листопада</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="691.64227"
+       y="686.61011"
+       id="text4181-816-7"><tspan
+         sodipodi:role="line"
+         id="tspan4183-85-5"
+         x="691.64227"
+         y="686.61011"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;stroke-width:1px">Арка-Корона</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="613.57581"
+       y="797.92267"
+       id="text4181-816-35"><tspan
+         sodipodi:role="line"
+         id="tspan4183-85-62"
+         x="613.57581"
+         y="801.03986"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;stroke-width:1px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="615.41376"
+       y="885.19519"
+       id="text4181-816-9"><tspan
+         sodipodi:role="line"
+         id="tspan4183-85-1"
+         x="615.41376"
+         y="885.19519"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;stroke-width:1px">Австралия</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="704.05939"
+       y="799.00739"
+       id="text4181-816-2"><tspan
+         sodipodi:role="line"
+         id="tspan4183-85-7"
+         x="704.05939"
+         y="799.00739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;stroke-width:1px">Порта-Пирата</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="775.73651"
+       y="756.26178"
+       id="text4181-816-0"><tspan
+         sodipodi:role="line"
+         id="tspan4183-85-9"
+         x="775.73651"
+         y="756.26178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;stroke-width:1px">Хо'матра</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="745.04279"
+       y="851.77118"
+       id="text4181-816-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan4183-85-7-6"
+         x="745.04279"
+         y="851.77118"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;stroke-width:1px">Сакрамент</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="620.81714"
+       y="818.80847"
+       id="text4181-816-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan4183-85-7-62"
+         x="620.81714"
+         y="818.80847"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;stroke-width:1px">Урсула</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="587.3819"
+       y="797.88586"
+       id="text4181-816-2-6"><tspan
+         sodipodi:role="line"
+         x="587.3819"
+         y="797.88586"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:SouvenirPSCyr;-inkscape-font-specification:SouvenirPSCyr;stroke-width:1px"
+         id="tspan1120">Амброзия-Секста</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#003380;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="766.1673"
+       y="599.00525"
+       id="text4333-2-1"><tspan
+         sodipodi:role="line"
+         x="766.1673"
+         y="599.00525"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#003380;stroke-width:1px"
+         id="tspan4536-6">Янтарный</tspan><tspan
+         sodipodi:role="line"
+         x="766.1673"
+         y="605.25525"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#003380;stroke-width:1px"
+         id="tspan1161">залив</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#003380;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="650.93469"
+       y="795.13721"
+       id="text4333-2-1-1"><tspan
+         sodipodi:role="line"
+         x="650.93469"
+         y="795.13721"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#003380;stroke-width:1px"
+         id="tspan1161-8">Портовый</tspan><tspan
+         sodipodi:role="line"
+         x="650.93469"
+         y="801.38721"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#003380;stroke-width:1px"
+         id="tspan1188">залив</tspan></text>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4136-3-9"
+       cx="897.56262"
+       cy="702.16772"
+       r="2.6785715" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4136-3-3"
+       cx="907.90125"
+       cy="726.53418"
+       r="2.6785715" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4136-3-09"
+       cx="872.32794"
+       cy="759.76196"
+       r="2.6785715" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#003380;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="868.47644"
+       y="725.61786"
+       id="text4333-2-1-0"><tspan
+         sodipodi:role="line"
+         x="868.47644"
+         y="725.61786"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#003380;stroke-width:1px"
+         id="tspan1161-5">Ситр'кхааэмакх</tspan><tspan
+         sodipodi:role="line"
+         x="868.47644"
+         y="731.86786"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#003380;stroke-width:1px"
+         id="tspan1261">(Шипящее Полуморе)</tspan></text>
   </g>
 </svg>
