@@ -14,7 +14,7 @@
    viewBox="0 0 1052.3622 744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="map_NorthCorona.svg">
   <defs
      id="defs4" />
@@ -25,14 +25,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9284089"
-     inkscape:cx="714.3168"
-     inkscape:cy="656.93493"
+     inkscape:zoom="1.7424557"
+     inkscape:cx="582.2408"
+     inkscape:cy="506.30814"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="699"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1576,5 +1576,46 @@
          y="435.54056"
          id="tspan4337-7"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.96989036px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.59397805px">Ближнереки</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="449.5448"
+       y="336.76453"
+       id="text4181-4-3-3"
+       transform="rotate(9.9999999)"><tspan
+         sodipodi:role="line"
+         id="tspan4183-3-6-6"
+         x="449.5448"
+         y="336.76453"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:1px">Забытая Тропа </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="506.74936"
+       y="376.21521"
+       id="text4181-4-3-7"
+       transform="rotate(9.9999999)"><tspan
+         sodipodi:role="line"
+         id="tspan4183-3-6-53"
+         x="506.74936"
+         y="379.3324"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:1px"></tspan><tspan
+         sodipodi:role="line"
+         x="506.74936"
+         y="379.53308"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:1px"
+         id="tspan1110">Кошачья Тропа</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="708.42749"
+       y="466.09317"
+       id="text4181-4-3-56"
+       transform="rotate(9.9999999)"><tspan
+         sodipodi:role="line"
+         id="tspan4183-3-6-2"
+         x="708.42749"
+         y="466.09317"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:1px">Тропа Воров</tspan></text>
   </g>
 </svg>
